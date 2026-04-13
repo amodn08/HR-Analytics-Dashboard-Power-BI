@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard — Power BI
+# 📊 Workforce-Intelligence-Dashboard-Uncovering-Attrition-Drivers-Promotion-Gaps
 
 *A 4-page business-ready analytics tool covering workforce distribution, attrition drivers, compensation patterns, and promotion trends.*
 
